@@ -29,10 +29,8 @@ Once all cards are drawn, whoever has a total closer to 21 than the dealer wins.
    
 Sample Display
 ```
-Your hand is:
-Six of Diamonds
-Four of Hearts
-Your hand is currently worth 10 points.
-The dealer's visible card is: Ten of Diamonds
-Do you want to Hit or Stand?
+Your cards: [10 of Hearts, 4 of Hearts]
+Your score is : 14
+Dealer's first card: 6 of Hearts
+Press 'H' (for Hit) to get another card, or press 'S' (for Stand) to pass:
 ```
