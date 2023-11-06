@@ -1,7 +1,5 @@
 # Blackjack
-Welcome to the Casino. The manager needs a new Blackjack game. So you have been hired to write a program the will handle 1 - 5 players and can bet 5 to 100 dollars. You will start with a shoe of 4 decks and shuffle the decks when you get below 30% left in the shoe you will reshuffle.
-
-The Casino owner want to see a prototype of the application, proof of concept. Using only 1 deck and one player, no beating. Just to make sure that the basic logic of the application works before moving forward with the application.
+Welcome to the Casino. The Casino owner want to see a prototype of a BlackJack application, proof of concept. Using only 1 deck and one player, no beating. Just to make sure that the basic logic of the application works before moving forward with the application.
 
 ## The rules are simple...
 
